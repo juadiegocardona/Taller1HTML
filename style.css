@@ -21,6 +21,8 @@ img {
   display: block;
   align-content: center;
   grid-area: top top;
+   margin-left: auto;
+  margin-right: auto;
 }
 #Bloque1{
   grid-area: izq;
